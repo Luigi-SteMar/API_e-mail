@@ -1,0 +1,26 @@
+{
+  "name": "api_e-mail",
+  "version": "1.0.0",
+  "description": "enviar_email",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luigi-SteMar/API_e-mail.git"
+  },
+  "keywords": [
+    "node",
+    "api"
+  ],
+  "author": "Luigi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luigi-SteMar/API_e-mail/issues"
+  },
+  "homepage": "https://github.com/Luigi-SteMar/API_e-mail#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
